@@ -1,6 +1,7 @@
 
 
 # Vibe Coding 终极指南 V1.2
+**原文链接：** https://github.com/EnzeD/vibe-coding
 **作者：** [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)  
 **创建日期：** 2025 年 3 月 12 日  
 **最后更新：** 2025 年 10 月 6 日  
